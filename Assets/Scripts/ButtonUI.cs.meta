@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: cf5e4c2288b7c2848b891c478ce84682
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ARMesh: {fileID: 2372294880131477764, guid: f787fc653f563804ab554b5122361cd2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
